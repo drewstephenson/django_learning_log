@@ -14,7 +14,7 @@ Once you are logged in, you can begin viewing and creating your topics.
 ![Screenshot 2024-05-15 184916](https://github.com/drewstephenson/django_learning_log/assets/116836139/dff60569-fd00-415e-88c6-ae0838b873ef)
 ![Screenshot 2024-05-15 184859](https://github.com/drewstephenson/django_learning_log/assets/116836139/da3236dd-379c-4a1f-8592-f3773b42f86d)
 
-After creating a topic, you can now create entries to log what you have learned about your topics. When you create an entry, the current date and time will automatically be recorded. If you make a mistake, you can edit entries as well. Any topics and their entries are secure and can only be seen by your account.
+After creating a topic, you can now create entries to log what you have learned about it. When you create an entry, the current date and time will automatically be recorded. If you make a mistake, you can edit your entries as well. Any topics and their entries are secure and can only be seen by your account. If someone tries to access your topics, they get redirected to a 404 error screen.
 ![Screenshot 2024-05-15 185027](https://github.com/drewstephenson/django_learning_log/assets/116836139/bab4e364-c5dd-4a03-82b3-7684109360da)
 ![Screenshot 2024-05-15 185044](https://github.com/drewstephenson/django_learning_log/assets/116836139/16a670c8-b9e9-4b75-9708-c0ef60eaac7b)
 
